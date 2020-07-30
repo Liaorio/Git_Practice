@@ -9,3 +9,7 @@ function test2() {
 function test3() {
     console.log('cherry')
 }
+
+function add() {
+    console.log('add some new features');
+}
