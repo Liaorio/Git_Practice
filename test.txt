@@ -1,10 +1,1 @@
-First line change!
-
-
-Ok, I changed my mind!
-
-
-Hey, need to merge!
-
-
-Cherry pick!
+This is master txt
