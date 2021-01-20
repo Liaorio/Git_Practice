@@ -2,4 +2,7 @@ function master() {
   console.log("test");
 }
 
-const dev_two = 'Dev 2';
+
+const dev_one = 'Dev 1';
+
+const testFunc = () => console.log('test again');
